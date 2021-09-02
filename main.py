@@ -7,7 +7,7 @@ import random
 
 root = Tk()
 root.geometry("400x300")
-root.iconbitmap("cam.ico")
+root.iconbitmap("icon.ico")
 
 var = StringVar()
 var1 =IntVar()
