@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox 
 import string
 import random
-import threading
+
 
 
 root = Tk()
