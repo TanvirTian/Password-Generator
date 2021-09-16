@@ -1,3 +1,3 @@
 # Tkinter-Password-Generator
 
-![Capture](https://user-images.githubusercontent.com/82821548/133642780-b8899b7b-30e5-4819-8801-2a53dcc9e960.PNG)
+![Passwordgenerator](https://user-images.githubusercontent.com/82821548/133645298-ce2d7f98-340f-4c7f-bfc1-7fe4aad06226.gif)
