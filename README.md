@@ -1,3 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/82821548/133642780-b8899b7b-30e5-4819-8801-2a53dcc9e960.PNG)
 # Tkinter-Password-Generator
 Config files for my GitHub profile.
+![Capture](https://user-images.githubusercontent.com/82821548/133642780-b8899b7b-30e5-4819-8801-2a53dcc9e960.PNG)
