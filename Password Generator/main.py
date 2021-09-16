@@ -7,8 +7,9 @@ import threading
 
 root = Tk()
 root.geometry("400x300")
-root.caption("Password Generator")
+root.title("Password Generator")
 root.iconbitmap("icon.ico")
+root.resizable(0,0)
 
 var = StringVar()
 var1 =IntVar()
