@@ -7,6 +7,7 @@ import threading
 
 root = Tk()
 root.geometry("400x300")
+root.caption("Password Generator")
 root.iconbitmap("icon.ico")
 
 var = StringVar()
