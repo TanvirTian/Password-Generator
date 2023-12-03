@@ -271,13 +271,9 @@ class PasswordGenerator(QMainWindow):
             qr.add_data(password)
             qr.make(fit=True)
 
-            fg = ["black","darkblue","greenblue","darkred"]
-            bg = ["white","lightgray","lightblue","beige"]
+            
 
-            random_fg = random.choice(fg)
-            random_bg = random.choice(bg)
-
-            img = qr.make_image(fill_color=random_fg, back_color=random_bg)
+            img = qr.make_image(fill_color="black", back_color="white")
             img.show()
         else:
             QMessageBox.information(self, "Warning", "Please generate a password first.")
