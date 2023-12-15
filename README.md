@@ -3,8 +3,8 @@
 ![Passwordgenerator](https://user-images.githubusercontent.com/82821548/133645298-ce2d7f98-340f-4c7f-bfc1-7fe4aad06226.gif)
 
 # Password-Generator in PYQT5 
+![GUI-Preview](https://github.com/TanvirTian/Password-Generator/assets/82821548/dae396ab-0487-4664-87b9-ce355b40451e)
 
-(https://github.com/TanvirTian/Password-Generator/assets/82821548/ea7928d8-4b5f-4e84-9140-1be5dec781a5.mp4)
 
 
 
