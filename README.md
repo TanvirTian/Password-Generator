@@ -4,7 +4,13 @@
 
 # Password-Generator in PYQT5 
 
-![PASSWORD-GENERATOR](https://github.com/TanvirTian/Password-Generator/assets/82821548/c7a48300-3fb4-4c92-8c25-39f9963c8ca5)
+![PASSWORD-GENERATOR](https://github.com/TanvirTian/Password-Generator/assets/82821
+
+https://github.com/TanvirTian/Password-Generator/assets/82821548/74b41d3b-04ca-4ae8-a081-c14ad9c23ca5
+
+548/c7a48300-3fb4-4c92-8c25-39f9963c8ca5)
+
+
 
 This GUI application, implemented in Python3, serves as a powerful password generator with multiple features for secure password creation and management.
 
